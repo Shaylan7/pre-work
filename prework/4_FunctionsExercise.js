@@ -116,7 +116,7 @@ console.log(myScheduleList)
 // Congrats, you made it to the end!
 // Did you find this easy or hard? If you used references, which ones helped you?
 // Please answer in a comment below.
-// Not too bad! I used the source suggested to help me use the split function: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
+// Not too bad! I used the source suggested to help me use the split function:  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
 
 // Email your file to the course staff,
 // or commit your file to GitHub and email us a link.

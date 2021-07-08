@@ -11,7 +11,7 @@
 
 // Exercise 1. Make an empty array named animals
 
-animals = []; 
+ animals = []; 
 
 // Exercise 2. Add the string "frog" to the array
 animals.push("frog");
